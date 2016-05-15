@@ -52,7 +52,7 @@
     //RSA进行加密解密
     [self RSAEncoderWithString:@"hello"];
     
-    
+    NSLog(@"今天星期天");
 }
 
 #pragma mark - MD5对字符串进行加密
